@@ -1,0 +1,26 @@
+print "
+\nINTRODUCTION BAHASA INDONESIA\n
+Politesse
+
+Selamat pagi = Bonjour (le matin)
+Selamat siang = Bonjour (le midi / 11:00/14:00)
+Selamat sore = Bonjour (l'après-midi)
+Selamat malam = Bonsoir (soirée)
+
+Selamat tinggal = Au revoir (c'est vous qui partez)
+Selamat jalan = Au revoir / Bonne route (ce sont les autres qui partent)
+Selamat sampai jumpa (lagi) = A plus tard
+Selamat nanti = A bientôt
+Dada = Salut (pour des proches)
+
+Selamat tidur = Bonne nuit
+(Miliki) Mimpi manis = Faites de beaux rêves
+
+Mohon = S'il vous plaît (langage formel)
+Tolong = S'il te plaît (langage familier)
+Permisi = Excuse(z) moi (pour demander quelque chose à quelqu'un)
+Maaf = Excuse(z) (demander pardon / s'excuser)
+Terima kasih (banyak) = Merci (beaucoup)
+Terima kasih kembali = Je suis vous en pris (langage formel)
+Sama-sama = De rien (langage familier)
+"
