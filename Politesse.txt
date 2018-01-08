@@ -1,5 +1,5 @@
 print "
-\nINTRODUCTION BAHASA INDONESIA\n
+INTRODUCTION BAHASA INDONESIA
 Politesse
 
 Selamat pagi = Bonjour (le matin)
